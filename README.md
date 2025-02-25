@@ -33,7 +33,7 @@ Este é um projeto desenvolvido para aplicar conhecimentos sobre **ORM SQLModel*
 ## 🛠️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone 
+   git clone https://github.com/kayqueprogram/Gerenciamento-de-Finan-as
    ```
 2. Acesse o diretório do projeto:
    ```bash
